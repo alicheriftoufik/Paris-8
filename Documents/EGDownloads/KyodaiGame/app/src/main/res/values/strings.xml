@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kyodai Game</string>
+    <string name="app_name2">Kyodai</string>
+    <string name="action_settings">Rglages</string>
+    <string name="title">PARIS 8 Projet Android</string>
+    <string name="btn_jouer">JOUER</string>
+    <string name="btn_sonoui">SON: OUI</string>
+    <string name="btn_sonnon">SON: NON</string>
+    <string name="btn_quitter">QUITTER</string>
+    <string name="help">AIDE</string>
+    <string name="about">A PROPOS</string>
+    <string name="about_content" >
+        créé par:
+        <br/>
+        ALI CHERIF Toufik
+         </string>
+</resources>
